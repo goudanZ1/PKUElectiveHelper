@@ -36,7 +36,7 @@
     const underLimitStyle = 'background-color: #abebc6; color: #145a32';
     const reachLimitStyle = 'background-color: #f5b7b1; color: #7b241c';
 
-    // 4. 填写 TT 识图账号的用户名和密码
+    // 4. 填写 TT 识图账号的用户名和密码（http://www.ttshitu.com/，请确保账户有余额）
     const recognizerConfig = {
         username: 'PKUer',
         password: 'wasd1234',
